@@ -8,11 +8,13 @@
     import Home from './components/Home.vue'
     import Project from './components/Project.vue'
     import Education from './components/Education.vue'
+    import Certificate from './components/Certificate.vue'
 
     const routes = {
         '/': Home,
         '/projects': Project,
-        '/education': Education
+        '/education': Education,
+        '/certificates': Certificate
     }
 
     export default {
