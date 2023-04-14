@@ -5,6 +5,8 @@
     </div>
     <div class="container"><a href="#/projects">Projects</a></div>
     <div class="container"><a href="#/education">Education</a></div>
+    <div class="container"><a href="#/certificates">Certificates</a></div>
+
 </template>
 
 <script>

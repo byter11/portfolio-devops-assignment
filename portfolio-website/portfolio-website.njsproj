@@ -48,10 +48,17 @@
     <Content Include="README.md" />
     <Content Include="src\App.vue" />
     <Content Include="src\assets\logo.png" />
+    <Content Include="src\components\Certificate.vue">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="src\components\Education.vue">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="src\components\Home.vue" />
     <Content Include="src\components\Project.vue">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="src\data\certificates.json" />
     <Content Include="src\data\education.json" />
     <Content Include="src\data\projects.json" />
     <Content Include="src\main.js" />
