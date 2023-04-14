@@ -1,0 +1,22 @@
+[
+  {
+    "title": "CampusMe",
+    "description": "a cutting-edge student society portal which offers a streamlined and organized solution for communication and management within university societies",
+    "languages":  ["Java", "Typescript", "React Native", "Docker"]
+  },
+  {
+    "title": "webvxbox",
+    "description": "a cross platform program that allows you to create virtual xbox controllers and play using a browser",
+    "languages":  ["Go", "html", "css"]
+  },
+  {
+    "title": "ppproxy",
+    "description": "a proxy server with caching + filtering and an admin panel using Python Flask",
+    "languages": [ "Python", "html" ]
+  },
+  {
+    "title": "packet-tracer",
+    "description": "a linux GUI based tool to monitor and analyze incoming and outgoing network packets",
+    "languages":  ["Python"]
+  }
+]
